@@ -5,6 +5,7 @@ def main():
     print("i don't know")
     print("Привет всем")
     print("Ура наконец-то все заработало УРА")
+    print("ИЗМЕНЯЮ ЧЕРЕЗ ГИТХАБ")
 if __name__ == "__main__":
         main()
 
